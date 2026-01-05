@@ -1,4 +1,4 @@
-# Solar-Powered-Prepaid-water-meter. Collaborative IoT project (team of 3) 
+# Solar-Powered-Prepaid-water-meter. Collaborative project (team of 3) 
 
 # IoT solution adding solar power to battery-backed prepaid meters for reliable water billing
 

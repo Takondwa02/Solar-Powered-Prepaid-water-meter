@@ -1,6 +1,6 @@
 # Solar-Powered-Prepaid-water-meter. Collaborative project (team of 3) 
 
-# IoT solution adding solar power to battery-backed prepaid meters for reliable water billing
+# IoT solution adding solar power to battery-backed prepaid water meters for reliable billing
 
 [![Demo Video](https://youtu.be/_3cTMJ0Mcx4?si=TB4OtV1tb9goXhkH)]
 
